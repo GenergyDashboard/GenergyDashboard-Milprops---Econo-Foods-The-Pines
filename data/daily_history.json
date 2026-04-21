@@ -3220,12 +3220,12 @@
     "_synthesised": "Hourly arrays synthesised from daily totals using PVSyst shape (PV) and a 70/30 daytime/overnight commercial load split. Daily totals are real."
   },
   "2026-04-21": {
-    "current_hour": 15,
-    "pv": 392.2,
-    "import": 1556.48,
+    "current_hour": 17,
+    "pv": 415.67,
+    "import": 1847.23,
     "export": 1.0,
-    "self_consumption": 391.2,
-    "consumption": 1947.68,
+    "self_consumption": 414.67,
+    "consumption": 2261.9,
     "hourly": {
       "pv": [
         0.0,
@@ -3244,8 +3244,8 @@
         23.14,
         37.38,
         28.32,
-        0.0,
-        0.0,
+        19.19,
+        4.28,
         0.0,
         0.0,
         0.0,
@@ -3270,8 +3270,8 @@
         158.7,
         152.83,
         153.06,
-        0.0,
-        0.0,
+        156.72,
+        157.5,
         0.0,
         0.0,
         0.0,
@@ -3296,8 +3296,8 @@
         135.56,
         115.45,
         124.74,
-        0.0,
-        0.0,
+        137.53,
+        153.22,
         0.0,
         0.0,
         0.0,
@@ -3343,12 +3343,12 @@
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 365.35,
-        "import": 814.53,
-        "self_consumption": 364.35,
+        "generation": 388.82,
+        "import": 1105.28,
+        "self_consumption": 387.82,
         "export": 1.0,
-        "utility_cost": 2279.54,
-        "pv_savings": 1019.67,
+        "utility_cost": 3093.24,
+        "pv_savings": 1085.35,
         "export_savings": 0.0
       },
       "off_peak": {
@@ -3363,17 +3363,17 @@
     },
     "savings": {
       "pv_savings": {
-        "peak": 46.54,
-        "standard": 1048.28,
+        "peak": 49.33,
+        "standard": 1111.17,
         "off_peak": 0.0,
-        "total": 1094.81
+        "total": 1160.5
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 1094.81
+      "total": 1160.5
     }
   }
 }
