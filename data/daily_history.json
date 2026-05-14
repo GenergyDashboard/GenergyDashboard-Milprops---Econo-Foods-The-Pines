@@ -6831,12 +6831,12 @@
     }
   },
   "2026-05-14": {
-    "current_hour": 8,
-    "pv": 28.72,
-    "import": 805.25,
-    "export": 0.0,
-    "self_consumption": 28.72,
-    "consumption": 833.97,
+    "current_hour": 11,
+    "pv": 352.21,
+    "import": 962.94,
+    "export": 0.25,
+    "self_consumption": 351.96,
+    "consumption": 1314.9,
     "hourly": {
       "pv": [
         0.0,
@@ -6848,9 +6848,9 @@
         0.0,
         1.18,
         27.54,
-        0.0,
-        0.0,
-        0.0,
+        74.12,
+        112.33,
+        137.04,
         0.0,
         0.0,
         0.0,
@@ -6874,9 +6874,9 @@
         82.05,
         117.66,
         139.8,
-        0.0,
-        0.0,
-        0.0,
+        169.86,
+        158.03,
+        153.04,
         0.0,
         0.0,
         0.0,
@@ -6900,9 +6900,9 @@
         82.05,
         116.48,
         112.26,
-        0.0,
-        0.0,
-        0.0,
+        95.74,
+        45.7,
+        16.25,
         0.0,
         0.0,
         0.0,
@@ -6928,7 +6928,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        0.25,
         0.0,
         0.0,
         0.0,
@@ -6954,12 +6954,12 @@
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 0.0,
-        "import": 82.05,
-        "self_consumption": 0,
-        "export": 0.0,
-        "utility_cost": 229.63,
-        "pv_savings": 0.0,
+        "generation": 323.49,
+        "import": 239.74,
+        "self_consumption": 323.24,
+        "export": 0.25,
+        "utility_cost": 670.94,
+        "pv_savings": 904.62,
         "export_savings": 0.0
       },
       "off_peak": {
@@ -6974,17 +6974,17 @@
     },
     "savings": {
       "pv_savings": {
-        "peak": 2.76,
-        "standard": 77.61,
+        "peak": 33.88,
+        "standard": 951.12,
         "off_peak": 0.0,
-        "total": 80.38
+        "total": 985.0
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 80.38
+      "total": 985.0
     }
   }
 }
