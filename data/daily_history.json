@@ -11541,12 +11541,12 @@
     }
   },
   "2026-06-13": {
-    "current_hour": 11,
-    "pv": 290.56,
-    "import": 1072.52,
-    "export": 0.0,
-    "self_consumption": 290.56,
-    "consumption": 1363.08,
+    "current_hour": 14,
+    "pv": 648.33,
+    "import": 1194.24,
+    "export": 0.5,
+    "self_consumption": 647.83,
+    "consumption": 1842.07,
     "hourly": {
       "pv": [
         0.0,
@@ -11561,9 +11561,9 @@
         56.65,
         96.58,
         121.02,
-        0.0,
-        0.0,
-        0.0,
+        132.32,
+        124.72,
+        100.73,
         0.0,
         0.0,
         0.0,
@@ -11587,9 +11587,9 @@
         168.4,
         161.34,
         166.98,
-        0.0,
-        0.0,
-        0.0,
+        157.29,
+        166.96,
+        154.74,
         0.0,
         0.0,
         0.0,
@@ -11613,9 +11613,9 @@
         111.75,
         64.76,
         45.96,
-        0.0,
-        0.0,
-        0.0,
+        25.47,
+        42.24,
+        54.01,
         0.0,
         0.0,
         0.0,
@@ -11639,7 +11639,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        0.5,
         0.0,
         0.0,
         0.0,
@@ -11673,28 +11673,28 @@
         "export_savings": 0.0
       },
       "off_peak": {
-        "generation": 0.0,
-        "import": 621.83,
-        "self_consumption": 0,
-        "export": 0.0,
-        "utility_cost": 1740.25,
-        "pv_savings": 0.0,
+        "generation": 357.77,
+        "import": 743.55,
+        "self_consumption": 357.27,
+        "export": 0.5,
+        "utility_cost": 2080.9,
+        "pv_savings": 999.86,
         "export_savings": 0.0
       }
     },
     "savings": {
       "pv_savings": {
         "peak": 0.0,
-        "standard": 290.56,
-        "off_peak": 522.6,
-        "total": 813.16
+        "standard": 647.83,
+        "off_peak": 1165.19,
+        "total": 1813.02
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 813.16
+      "total": 1813.02
     }
   }
 }
