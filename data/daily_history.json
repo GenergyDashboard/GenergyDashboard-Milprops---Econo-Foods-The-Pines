@@ -15780,12 +15780,12 @@
     }
   },
   "2026-07-10": {
-    "current_hour": 9,
-    "pv": 57.84,
-    "import": 1132.03,
-    "export": 0.0,
-    "self_consumption": 57.84,
-    "consumption": 1189.87,
+    "current_hour": 12,
+    "pv": 386.2,
+    "import": 1273.47,
+    "export": 1.0,
+    "self_consumption": 385.2,
+    "consumption": 1658.67,
     "hourly": {
       "pv": [
         0.0,
@@ -15798,9 +15798,9 @@
         0.19,
         10.47,
         47.18,
-        0.0,
-        0.0,
-        0.0,
+        92.82,
+        110.45,
+        125.09,
         0.0,
         0.0,
         0.0,
@@ -15824,9 +15824,9 @@
         160.7,
         151.14,
         171.72,
-        0.0,
-        0.0,
-        0.0,
+        159.0,
+        147.47,
+        162.33,
         0.0,
         0.0,
         0.0,
@@ -15850,9 +15850,9 @@
         160.51,
         140.67,
         124.54,
-        0.0,
-        0.0,
-        0.0,
+        66.18,
+        38.02,
+        37.24,
         0.0,
         0.0,
         0.0,
@@ -15877,7 +15877,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        1.0,
         0.0,
         0.0,
         0.0,
@@ -15903,12 +15903,12 @@
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 57.65,
-        "import": 265.21,
-        "self_consumption": 57.65,
-        "export": 0.0,
-        "utility_cost": 742.22,
-        "pv_savings": 161.34,
+        "generation": 386.01,
+        "import": 406.65,
+        "self_consumption": 385.01,
+        "export": 1.0,
+        "utility_cost": 1138.05,
+        "pv_savings": 1077.49,
         "export_savings": 0.0
       },
       "off_peak": {
@@ -15923,17 +15923,17 @@
     },
     "savings": {
       "pv_savings": {
-        "peak": 0.17,
-        "standard": 161.7,
+        "peak": 1.13,
+        "standard": 1076.89,
         "off_peak": 0.0,
-        "total": 161.87
+        "total": 1078.02
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 161.87
+      "total": 1078.02
     }
   }
 }
