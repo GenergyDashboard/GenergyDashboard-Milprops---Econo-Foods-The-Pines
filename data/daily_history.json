@@ -16722,12 +16722,12 @@
     }
   },
   "2026-07-16": {
-    "current_hour": 3,
-    "pv": 0.0,
-    "import": 353.54,
+    "current_hour": 7,
+    "pv": 0.07,
+    "import": 743.68,
     "export": 0.0,
-    "self_consumption": 0,
-    "consumption": 353.54,
+    "self_consumption": 0.07,
+    "consumption": 743.75,
     "hourly": {
       "pv": [
         0.0,
@@ -16737,7 +16737,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        0.07,
         0.0,
         0.0,
         0.0,
@@ -16760,10 +16760,10 @@
         91.14,
         87.55,
         82.05,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
+        79.74,
+        75.01,
+        99.2,
+        136.26,
         0.0,
         0.0,
         0.0,
@@ -16786,10 +16786,10 @@
         91.14,
         87.55,
         82.05,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
+        79.74,
+        75.01,
+        99.2,
+        136.19,
         0.0,
         0.0,
         0.0,
@@ -16836,12 +16836,12 @@
     },
     "tou_breakdown": {
       "peak": {
-        "generation": 0.0,
-        "import": 0.0,
-        "self_consumption": 0,
+        "generation": 0.07,
+        "import": 235.39,
+        "self_consumption": 0.07,
         "export": 0.0,
-        "utility_cost": 0.0,
-        "pv_savings": 0.0,
+        "utility_cost": 658.76,
+        "pv_savings": 0.2,
         "export_savings": 0.0
       },
       "standard": {
@@ -16855,10 +16855,10 @@
       },
       "off_peak": {
         "generation": 0.0,
-        "import": 353.54,
+        "import": 508.29,
         "self_consumption": 0,
         "export": 0.0,
-        "utility_cost": 989.42,
+        "utility_cost": 1422.5,
         "pv_savings": 0.0,
         "export_savings": 0.0
       }
@@ -16866,16 +16866,16 @@
     "savings": {
       "pv_savings": {
         "peak": 0.0,
-        "standard": 0.0,
+        "standard": 0.2,
         "off_peak": 0.0,
-        "total": 0.0
+        "total": 0.2
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 0.0
+      "total": 0.2
     }
   }
 }
