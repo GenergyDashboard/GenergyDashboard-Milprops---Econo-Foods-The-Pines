@@ -16879,12 +16879,12 @@
     }
   },
   "2026-07-17": {
-    "current_hour": 7,
-    "pv": 0.04,
-    "import": 725.25,
-    "export": 0.0,
-    "self_consumption": 0.04,
-    "consumption": 725.29,
+    "current_hour": 10,
+    "pv": 65.16,
+    "import": 1101.32,
+    "export": 0.25,
+    "self_consumption": 64.91,
+    "consumption": 1166.23,
     "hourly": {
       "pv": [
         0.0,
@@ -16895,9 +16895,9 @@
         0.0,
         0.0,
         0.04,
-        0.0,
-        0.0,
-        0.0,
+        4.23,
+        18.24,
+        42.65,
         0.0,
         0.0,
         0.0,
@@ -16921,9 +16921,9 @@
         76.93,
         88.32,
         118.95,
-        0.0,
-        0.0,
-        0.0,
+        138.76,
+        150.08,
+        152.1,
         0.0,
         0.0,
         0.0,
@@ -16947,9 +16947,9 @@
         76.93,
         88.32,
         118.91,
-        0.0,
-        0.0,
-        0.0,
+        134.53,
+        131.84,
+        109.7,
         0.0,
         0.0,
         0.0,
@@ -16975,7 +16975,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        0.25,
         0.0,
         0.0,
         0.0,
@@ -17002,12 +17002,12 @@
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 0.0,
-        "import": 0.0,
-        "self_consumption": 0,
-        "export": 0.0,
-        "utility_cost": 0.0,
-        "pv_savings": 0.0,
+        "generation": 65.12,
+        "import": 376.07,
+        "self_consumption": 64.87,
+        "export": 0.25,
+        "utility_cost": 1052.47,
+        "pv_savings": 181.55,
         "export_savings": 0.0
       },
       "off_peak": {
@@ -17022,17 +17022,17 @@
     },
     "savings": {
       "pv_savings": {
-        "peak": 0.0,
-        "standard": 0.11,
+        "peak": 0.01,
+        "standard": 181.65,
         "off_peak": 0.0,
-        "total": 0.11
+        "total": 181.66
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 0.11
+      "total": 181.66
     }
   }
 }
