@@ -17036,12 +17036,12 @@
     }
   },
   "2026-07-18": {
-    "current_hour": 4,
-    "pv": 0.0,
-    "import": 428.41,
+    "current_hour": 7,
+    "pv": 0.04,
+    "import": 695.42,
     "export": 0.0,
-    "self_consumption": 0,
-    "consumption": 428.41,
+    "self_consumption": 0.04,
+    "consumption": 695.46,
     "hourly": {
       "pv": [
         0.0,
@@ -17051,7 +17051,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        0.04,
         0.0,
         0.0,
         0.0,
@@ -17075,9 +17075,9 @@
         91.01,
         80.76,
         77.44,
-        0.0,
-        0.0,
-        0.0,
+        71.56,
+        90.49,
+        105.0,
         0.0,
         0.0,
         0.0,
@@ -17101,9 +17101,9 @@
         91.01,
         80.76,
         77.44,
-        0.0,
-        0.0,
-        0.0,
+        71.56,
+        90.49,
+        104.96,
         0.0,
         0.0,
         0.0,
@@ -17159,20 +17159,20 @@
         "export_savings": 0
       },
       "standard": {
-        "generation": 0.0,
-        "import": 0.0,
-        "self_consumption": 0,
+        "generation": 0.04,
+        "import": 104.96,
+        "self_consumption": 0.04,
         "export": 0.0,
-        "utility_cost": 0.0,
-        "pv_savings": 0.0,
+        "utility_cost": 293.74,
+        "pv_savings": 0.11,
         "export_savings": 0.0
       },
       "off_peak": {
         "generation": 0.0,
-        "import": 428.41,
+        "import": 590.46,
         "self_consumption": 0,
         "export": 0.0,
-        "utility_cost": 1198.95,
+        "utility_cost": 1652.46,
         "pv_savings": 0.0,
         "export_savings": 0.0
       }
@@ -17180,16 +17180,16 @@
     "savings": {
       "pv_savings": {
         "peak": 0.0,
-        "standard": 0.0,
-        "off_peak": 0.0,
-        "total": 0.0
+        "standard": 0.03,
+        "off_peak": 0.08,
+        "total": 0.11
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 0.0
+      "total": 0.11
     }
   }
 }
