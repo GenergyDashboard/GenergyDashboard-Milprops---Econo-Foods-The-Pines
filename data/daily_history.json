@@ -17507,12 +17507,12 @@
     }
   },
   "2026-07-21": {
-    "current_hour": 13,
-    "pv": 568.82,
-    "import": 1057.67,
-    "export": 0.25,
-    "self_consumption": 568.57,
-    "consumption": 1626.24,
+    "current_hour": 15,
+    "pv": 763.9,
+    "import": 1151.24,
+    "export": 0.75,
+    "self_consumption": 763.15,
+    "consumption": 1914.39,
     "hourly": {
       "pv": [
         0.0,
@@ -17529,8 +17529,8 @@
         124.05,
         138.25,
         139.19,
-        0.0,
-        0.0,
+        104.5,
+        90.58,
         0.0,
         0.0,
         0.0,
@@ -17555,8 +17555,8 @@
         139.55,
         153.99,
         159.16,
-        0.0,
-        0.0,
+        145.6,
+        142.55,
         0.0,
         0.0,
         0.0,
@@ -17581,8 +17581,8 @@
         15.75,
         15.74,
         19.97,
-        0.0,
-        0.0,
+        41.6,
+        51.97,
         0.0,
         0.0,
         0.0,
@@ -17607,7 +17607,7 @@
         0.25,
         0.0,
         0.0,
-        0.0,
+        0.5,
         0.0,
         0.0,
         0.0,
@@ -17630,12 +17630,12 @@
         "export_savings": 0.0
       },
       "standard": {
-        "generation": 568.37,
-        "import": 325.89,
-        "self_consumption": 568.12,
-        "export": 0.25,
-        "utility_cost": 912.04,
-        "pv_savings": 1589.94,
+        "generation": 763.45,
+        "import": 419.46,
+        "self_consumption": 762.7,
+        "export": 0.75,
+        "utility_cost": 1173.9,
+        "pv_savings": 2134.49,
         "export_savings": 0.0
       },
       "off_peak": {
@@ -17650,17 +17650,17 @@
     },
     "savings": {
       "pv_savings": {
-        "peak": 2.48,
-        "standard": 1588.72,
+        "peak": 3.33,
+        "standard": 2132.42,
         "off_peak": 0.0,
-        "total": 1591.2
+        "total": 2135.75
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 1591.2
+      "total": 2135.75
     }
   }
 }
