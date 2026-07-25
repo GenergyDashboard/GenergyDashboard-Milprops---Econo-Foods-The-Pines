@@ -18135,12 +18135,12 @@
     }
   },
   "2026-07-25": {
-    "current_hour": 11,
-    "pv": 319.83,
-    "import": 1015.04,
-    "export": 0.0,
-    "self_consumption": 319.83,
-    "consumption": 1334.87,
+    "current_hour": 14,
+    "pv": 729.98,
+    "import": 1096.83,
+    "export": 0.5,
+    "self_consumption": 729.48,
+    "consumption": 1826.31,
     "hourly": {
       "pv": [
         0.0,
@@ -18155,9 +18155,9 @@
         65.44,
         104.94,
         130.04,
-        0.0,
-        0.0,
-        0.0,
+        141.28,
+        140.23,
+        128.64,
         0.0,
         0.0,
         0.0,
@@ -18181,9 +18181,9 @@
         186.53,
         169.96,
         148.73,
-        0.0,
-        0.0,
-        0.0,
+        156.78,
+        172.23,
+        162.43,
         0.0,
         0.0,
         0.0,
@@ -18207,9 +18207,9 @@
         121.09,
         65.02,
         18.69,
-        0.0,
-        0.0,
-        0.0,
+        16.0,
+        32.0,
+        33.79,
         0.0,
         0.0,
         0.0,
@@ -18233,7 +18233,7 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        0.5,
         0.0,
         0.0,
         0.0,
@@ -18267,28 +18267,28 @@
         "export_savings": 0.0
       },
       "off_peak": {
-        "generation": 0.0,
-        "import": 602.11,
-        "self_consumption": 0,
-        "export": 0.0,
-        "utility_cost": 1685.07,
-        "pv_savings": 0.0,
+        "generation": 410.15,
+        "import": 683.9,
+        "self_consumption": 409.65,
+        "export": 0.5,
+        "utility_cost": 1913.96,
+        "pv_savings": 1146.45,
         "export_savings": 0.0
       }
     },
     "savings": {
       "pv_savings": {
         "peak": 0.0,
-        "standard": 325.86,
-        "off_peak": 569.22,
-        "total": 895.08
+        "standard": 743.22,
+        "off_peak": 1298.3,
+        "total": 2041.52
       },
       "export_savings": {
         "standard": 0.0,
         "off_peak": 0.0,
         "total": 0.0
       },
-      "total": 895.08
+      "total": 2041.52
     }
   }
 }
