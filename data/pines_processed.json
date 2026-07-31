@@ -1,6 +1,6 @@
 {
   "plant": "MP The Pines",
-  "last_updated": "2026-07-31 21:44",
+  "last_updated": "2026-07-31 23:14",
   "yesterday": {
     "date": "2026-07-30",
     "data": {
@@ -30,13 +30,13 @@
       "PV Yield (kWh)": 814.54,
       "Inverter Yield (kWh)": 814.54,
       "Export (kWh)": 5.25,
-      "Import (kWh)": 2019.2,
+      "Import (kWh)": 2091.26,
       "Loss Due to Export Limitation (kWh)": 0.0,
       "Loss Due to Export Limitation(R.)": 0.0,
       "Charge (kWh)": 0.0,
       "Discharge (kWh)": 0.0,
       "Revenue (R.)": 1469.04,
-      "Consumption (kWh)": 2828.49,
+      "Consumption (kWh)": 2900.55,
       "Self-consumption (kWh)": 809.29,
       "Self-consumption Rate (%)": 99.36
     }
@@ -47,8 +47,8 @@
       "PV Yield (kWh)": 22191.13,
       "Inverter Yield (kWh)": 22191.13,
       "Export (kWh)": 39.0,
-      "Import (kWh)": 66749.02,
-      "Consumption (kWh)": 88901.15,
+      "Import (kWh)": 66821.08,
+      "Consumption (kWh)": 88973.21,
       "Self-consumption (kWh)": 22152.13,
       "CO\u2082 Avoided (t)": 0.0,
       "Standard Coal Saved (t)": 0.0,
@@ -733,8 +733,8 @@
       "PV Yield (kWh)": 22191.13,
       "Inverter Yield (kWh)": 22191.13,
       "Export (kWh)": 39.0,
-      "Import (kWh)": 66749.02,
-      "Consumption (kWh)": 88901.15,
+      "Import (kWh)": 66821.08,
+      "Consumption (kWh)": 88973.21,
       "Self-consumption (kWh)": 22152.13,
       "CO\u2082 Avoided (t)": 0.0,
       "Standard Coal Saved (t)": 0.0,
@@ -807,8 +807,8 @@
       "PV Yield (kWh)": 207243.54,
       "Inverter Yield (kWh)": 207243.54,
       "Export (kWh)": 2145.0,
-      "Import (kWh)": 477519.44,
-      "Consumption (kWh)": 682617.98,
+      "Import (kWh)": 477591.5,
+      "Consumption (kWh)": 682690.04,
       "Self-consumption (kWh)": 205098.54,
       "CO\u2082 Avoided (t)": 0.0,
       "Standard Coal Saved (t)": 0.0,
@@ -826,8 +826,8 @@
     "PV Yield (kWh)": 1203585.72,
     "Inverter Yield (kWh)": 1203585.72,
     "Export (kWh)": 31928.5,
-    "Import (kWh)": 1256991.14,
-    "Consumption (kWh)": 2363475.94,
+    "Import (kWh)": 1257063.2,
+    "Consumption (kWh)": 2363548.0,
     "Self-consumption (kWh)": 1152814.61,
     "CO\u2082 Avoided (t)": 0.0,
     "Standard Coal Saved (t)": 0.0,
@@ -885,7 +885,7 @@
     }
   },
   "hourly": {
-    "current_hour": 20,
+    "current_hour": 21,
     "pv": [
       0.0,
       0.0,
@@ -934,7 +934,7 @@
       154.85,
       142.98,
       125.44,
-      0.0,
+      72.06,
       0.0,
       0.0
     ],
@@ -960,7 +960,7 @@
       154.75,
       142.98,
       125.44,
-      0.0,
+      72.06,
       0.0,
       0.0
     ],
@@ -1012,7 +1012,7 @@
       147.12,
       132.93,
       120.02,
-      72.25,
+      74.58,
       12.72,
       0.0
     ],
@@ -1038,7 +1038,7 @@
       147.09,
       132.93,
       120.02,
-      72.25,
+      74.58,
       12.72,
       0.0
     ],
